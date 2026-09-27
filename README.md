@@ -1,11 +1,22 @@
-# SmartGym · Pose Coach 🏋️
+<div align="center">
+  <img src="public/og.png" alt="Forma - Pose Coach" width="700">
+</div>
+
+# SmartGym · Forma Pose Coach 🏋️
 
 **Real-time exercise form analysis using on-device pose estimation.**
 
-Film yourself doing squats → get instant, rep-by-rep coaching feedback on form quality. Runs entirely in the browser — no server, no data uploaded.
+Film yourself doing squats → get instant, rep-by-rep coaching feedback on form quality. Runs entirely in the browser — no server, zero data uploaded.
 
-<!-- TODO: Replace with actual demo GIF or screenshot -->
-<!-- ![Demo](docs/demo.gif) -->
+## Live Demo
+
+🔗 **[forma-motion-coach.ojedavd.chatgpt.site](https://forma-motion-coach.ojedavd.chatgpt.site/)**
+
+> Try the app directly in your browser. All inference runs 100% on-device via MediaPipe.
+
+<p align="center">
+  <img src="docs/demo.gif" alt="Exercise Form Analysis Demo" width="600" />
+</p>
 
 ## How It Works
 
